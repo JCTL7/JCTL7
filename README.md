@@ -1,4 +1,4 @@
-# ¡Hola! Soy Julio César Trujillo Lugo 👋
+# ¡Hola, que tal! Soy Julio César Trujillo 👋
 
 Desarrollador Full Stack con una sólida mentalidad estratégica y analítica enfocada en la resolución de problemas técnicos y de negocio. Fundo mis bases de programación con más de 10 años de experiencia en consultoría comercial y ecosistemas CRM.
 
